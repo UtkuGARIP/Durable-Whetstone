@@ -1,10 +1,10 @@
-DurableWhetstone
+Dayanıklı Bileme Taşı
 
 
-This is a mod for **The Long Dark** by Hinterland Games Studio, Inc.
+Bu mod **The Long Dark** oyunu için ek özellik sağlar. (Hinterland Studio, Inc.)
 
 
-It increases the durability of whetstones by reducing the wear to 1% per use.
+Kullanım sırasında aşınmayı %1'e kadar azaltarak, bileme taşının dayanıklılığını arttırır.
 
 
-Requires the [Mod Loader](https://github.com/zeobviouslyfakeacc/ModLoaderInstaller) to run.
+Kurulum için [Mod Yükleyici](https://github.com/zeobviouslyfakeacc/ModLoaderInstaller) gerektirir.
